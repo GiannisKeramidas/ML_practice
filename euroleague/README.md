@@ -1,7 +1,7 @@
 Euroleague
 ==============================
 
-Mixture of machine learning algorithms applied to categorizing Euroleague players.
+Mixture of machine learning algorithms applied to categorizing Euroleague players. Directory structure is made with cookiecutter.
 
 Project Organization
 ------------
